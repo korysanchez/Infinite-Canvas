@@ -1,0 +1,5 @@
+#1b1b1b #202020
+old`card 18 12 10 2 white Consolas 10 False
+hello 22 16 3 3 white Consolas 24 False
+title 14 7 3 3 white Consolas 35 False
+he 17 12 3 3 white Consolas 31 False
